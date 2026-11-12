@@ -1,0 +1,501 @@
+Quantum Physics
+
+Introduction to Quantum Mechanics by David J. Griffiths.
+
+Intro:
+This bestselling undergraduate quantum mechanics textbook is now available in a re-issued, affordable edition from Cambridge University Press. The text first teaches students how to do quantum mechanics, and then provides them with a more insightful discussion of what it means. The author avoids the temptation to include every possible relevant topic, instead presenting students with material that they can easily focus on in a complete treatment with few distractions and diversions. Fundamental principles are covered, quantum theory is presented, and special techniques are developed for attacking realistic problems. The innovative two-part coverage is entertaining and informative, organizing topics under basic theory and assembling an arsenal of approximation schemes with illustrative applications linked closely to the text.
+
+
+Publisher: Cambridge University Press
+
+Year: 2018
+
+Price: 122 GEL
+
+Print Length: 508 pages
+
+Dimensions: 7.3 x 1 x 9.7 inches
+
+Edition: 3rd
+
+
+2.Quantum Mechanics: The Theoretical Minimum by Leonard Susskind and Art Friedman.
+
+Intro: From the bestselling author of The Theoretical Minimum, an accessible introduction to the math and science of quantum mechanics 
+ 
+“If you want to know how physicists really think about the world, this book is the place to start.”―Sean Carroll, author of The Particle at the End of the Universe 
+
+First he taught you classical mechanics. Now, physicist Leonard Susskind teams up with data engineer Art Friedman to present the theory and associated mathematics of the strange world of quantum mechanics. 
+ 
+In this follow-up to the New York Times best-selling The Theoretical Minimum, Susskind and Friedman provide a lively introduction to this famously difficult topic by illustrating the behavior of sub-atomic objects through mathematical abstractions. Unlike other popularizations that shy away from quantum mechanics' weirdness, Quantum Mechanics embraces it. The authors offer crystal-clear explanations of the principles of quantum states, uncertainty and time dependence, entanglement, and particle and wave states, among other topics, and each chapter includes exercises to ensure mastery of each area.  
+ 
+Approachable yet rigorous, Quantum Mechanics provides a tool kit for amateur scientists to learn physics at their own pace. 
+
+
+Price: 75 GEL
+
+Year: 2015
+
+Publisher: The Theoretical Minimum
+
+Print Length: 384 pages
+
+Dimensions: 5.45 x 1.2 x 8.2 inches
+
+Edition: 1 st
+
+
+3.QED: The Strange Theory of Light and Matter by Richard P. Feynman.
+
+Intro: Feynman’s bestselling introduction to the mind-blowing physics of QED—presented with humor, not mathematics  Celebrated for his brilliantly quirky insights into the physical world, Nobel laureate Richard Feynman also possessed an extraordinary talent for explaining difficult concepts to the public. In this extraordinary book, Feynman provides a lively and accessible introduction to QED, or quantum electrodynamics, an area of quantum field theory that describes the interactions of light with charged particles. Using everyday language, spatial concepts, visualizations, and his renowned Feynman diagrams instead of advanced mathematics, Feynman clearly and humorously communicates the substance and spirit of QED to the nonscientist.  With an incisive introduction by A. Zee that places Feynman’s contribution to QED in historical context and highlights Feynman’s uniquely appealing and illuminating style, this Princeton Science Library edition of QED makes Feynman’s legendary talks on quantum electrodynamics available to a new generation of readers.
+
+Price: 51 GEL
+
+Year: 2014
+
+Publisher: Princeton University Press
+
+Print Length: 190 pages
+
+Dimensions: 5.75 x 0.5 x 8.75 inches
+
+Edition: 1 st
+
+
+4.Something Deeply Hidden by Sean Carroll.
+
+Intro: Immense, strange and infinite, the world of modern physics often feels impenetrable to the undiscerning eye – a jumble of muons, gluons and quarks, impossible to explain without several degrees and a research position at CERN. But it doesn’t have to be this way! Allow world-renowned theoretical physicist and bestselling author Sean Carroll to guide you through the biggest ideas in the universe. Elegant and simple, Carroll unravels this web of theories and formulae equation by equation, getting to the heart of the truths they represent.
+
+
+Price: 127 GEL
+
+Year: 2026
+
+Publisher: Oneworld Publications ltd
+
+Dimensions: 5.08 x 3.74 x 7.8 inches
+
+Page Length: 1328 pages
+
+Edition: 1 st
+
+
+Bioinformatics
+
+Biological Sequence Analysis by Richard Durbin, Sean Eddy, Anders Krogh and Graeme Mitchison.
+
+Intro: Probablistic models are becoming increasingly important in analyzing the huge amount of data being produced by large-scale DNA-sequencing efforts such as the Human Genome Project. For example, hidden Markov models are used for analyzing biological sequences, linguistic-grammar-based probabilistic models for identifying RNA secondary structure, and probabilistic evolutionary models for inferring phylogenies of sequences from different organisms. This book gives a unified, up-to-date and self-contained account, with a Bayesian slant, of such methods, and more generally to probabilistic methods of sequence analysis. Written by an interdisciplinary team of authors, it is accessible to molecular biologists, computer scientists, and mathematicians with no formal knowledge of the other fields, and at the same time presents the state of the art in this new and important field.
+
+
+Price: 137 GEL
+
+Publisher : Cambridge University Press
+
+Year: 1998
+
+Dimensions: 6.69 x 0.84 x 9.61 inches
+
+Page Length: 356 pages
+
+Edition: 1 st
+
+
+
+2.Bioinformatics Algorithms: An Active Learning Approach by Phillip Compeau and Pavel Pevzner.
+
+Intro:
+This is the first edition of the textbook. The second edition (featuring two volumes) is now published and can be purchased from Amazon. Bioinformatics Algorithms: An Active Learning Approach is one of the first textbooks to emerge from the recent Massive Online Open Course (MOOC) revolution. A light-hearted and analogy-filled companion to the authors' acclaimed online course (http://coursera.org/course/bioinformatics), this book presents students with a dynamic approach to learning bioinformatics. It strikes a unique balance between practical challenges in modern biology and fundamental algorithmic ideas, thus capturing the interest of biology and computer science students alike. Each chapter begins with a central biological question, such as "Are There Fragile Regions in the Human Genome?" or "Which DNA Patterns Play the Role of Molecular Clocks?" and then steadily develops the algorithmic sophistication required to answer this question. Hundreds of exercises are incorporated directl
+
+Price: 259 GEL
+
+Publisher : Active Learning Publishers
+
+Year: 2014
+
+Edition: 1 st
+
+Dimensions: 7 x 1.25 x 9 inches
+
+Print length : 536 pages
+
+
+
+Bioinformatics Data Skills by Vince Buffalo.
+
+Intro:Learn the data skills necessary for turning large sequencing datasets into reproducible and robust biological findings. With this practical guide, youâ??ll learn how to use freely available open source tools to extract meaning from large complex biological data sets.
+At no other point in human history has our ability to understand lifeâ??s complexities been so dependent on our skills to work with and analyze data. This intermediate-level book teaches the general computational and data skills you need to analyze biological data. If you have experience with a scripting language like Python, youâ??re ready to get started.
+	•	Go from handling small problems with messy scripts to tackling large problems with clever methods and tools
+	•	Process bioinformatics data with powerful Unix pipelines and data tools
+	•	Learn how to use exploratory data analysis techniques in the R language
+	•	Use efficient methods to work with genomic range data and range operations
+	•	Work with common genomics data file formats like FASTA, FASTQ, SAM, and BAM
+	•	Manage your bioinformatics project with the Git version control system
+	•	Tackle tedious data processing tasks with with Bash scripts and Makefiles
+
+Year: 2024
+
+Publisher: O'Reilly Media
+
+Price: 109
+
+Edition: 1st
+
+Dimensions: 7 x 1.25 x 9 inches
+
+Print length : 536 pages
+
+
+
+Python for Bioinformatics by Sebastian Bassi.
+
+Intro: Programming knowledge is often necessary for finding a solution to a biological problem. Based on the author’s experience working for an agricultural biotechnology company, Python for Bioinformatics helps scientists solve their biological problems by helping them understand the basics of programming. Requiring no prior knowledge of programming-related concepts, the book focuses on the easy-to-use, yet powerful, Python computer language.
+
+The book begins with a very basic introduction that teaches the principles of programming. It then introduces the Biopython package, which can be useful in solving life science problems. The next section covers sophisticated tools for bioinformatics, including relational database management systems and XML. The last part illustrates applications with source code, such as sequence manipulation, filtering vector contamination, calculating DNA melting temperature, parsing a genbank file, inferring splicing sites, and more. The appendices provide a wealth of supplementary information, including instructions for installing Python and Biopython and a Python language and style guide.
+
+By incorporating examples in biology as well as code fragments throughout, the author places a special emphasis on practice, encouraging readers to experiment with the code. He shows how to use Python and the Biopython package for building web applications, genomic annotation, data manipulation, and countless other applications.
+
+
+Year: 2009
+
+Price: 68
+
+Publisher: Chapman and Hall/CRC
+
+Edition: 1 st
+
+Dimensions: 6 x 1.25 x 9 inches
+
+Print length: 587 pages
+
+
+
+Medicine
+	0.	The Emperor of All Maladies: A Biography of Cancer by Siddhartha Mukherjee.
+
+
+Intro: WINNER OF THE PULITZER PRIZE * A NEW YORK TIMES TOP 100 BOOK OF THE CENTURY * A NEW YORK TIMES BOOK REVIEW BEST BOOK OF THE YEAR * A TIME ALL-TIME 100 NONFICTION BOOK
+
+Updated with FOUR NEW MAJOR CHAPTERS illuminating the new developments in cancer detection, prevention, treatment, and understanding in the fifteen years since the book’s first publication, this New York Times bestseller is “an extraordinary achievement” (The New Yorker)—a magnificent, profoundly humane “biography” of cancer.
+
+Siddhartha Mukherjee’s The Emperor of All Maladies became an instant classic when it was published in 2010. A magnificent, humane “biography” of cancer—from its first documented appearances thousands of years ago through the epic 20th century to cure, control, and conquer it to a radical new understanding of its essence—The Emperor of All Maladies is one of the most highly acclaimed books of its time.
+
+In the years since Mukherjee dazzled readers with The Emperor of All Maladies, much has changed in the universe of cancer—in our understanding of its causes; in our attempts to prevent it; and in the revolutionary new treatments. In four profound and revelatory new chapters—essentially a new book about cancer—he illuminates this disease with both a bird’s eye view of the landscape and an acute focus on the role of the cell. He also looks at imminent new studies—and to the future.
+
+Riveting, audacious, and now more urgent than ever in this vast update, The Emperor of All Maladies is a masterpiece.
+
+Year: 2025
+
+Publisher: Scribner
+
+Price: 36
+
+Dimension: 6.13 x 1.7 x 9.25 inches
+
+Print length: 720 pages
+
+Edition: 2 nd
+
+
+	0.	Gray's Anatomy for Students by Richard Drake, A. Wayne Vogl and Adam Mitchell.
+
+Intro:Concise, readable text and an outstanding art program make Gray's Anatomy for Students, 5th Edition, your go-to text for essential information in human anatomy. This fully revised volume focuses on the core information medical students need to know, in an easy-access format and with additional multimedia content to facilitate effective study and mastery of the material. A team of expert authors share a wealth of diverse teaching and clinical experience―all enhanced by more than 1,000 innovative, original illustrations by renowned illustrators Richard Tibbitts and Paul Richardson, who capture anatomical features with unrivalled clarity.
+	•	Helps you understand the practical applications of anatomical concepts through unique coverage of surface anatomy, correlative diagnostic images, and clinical case studies
+	•	Contains increased representation of diverse population groups throughout, incorporating a wider range of skin tones and important clinical considerations related to transgender and intersex individuals
+	•	Presents anatomy logically by body region – as well as bonus updated eBook chapters for each major body system to facilitate learning from a different perspective
+	•	Includes new and improved online materials such as self-assessment questions, medical and physical therapy clinical cases, a unique Interactive Surface Anatomy tool, and more
+	•	Provides fully revised and updated clinical content including numerous new In the Clinic boxes, images, and correlates throughout that reflect the latest advances seen in clinical practice. New and updated Clinical Cases are included in the accompanying enhanced eBook
+	•	Features an updated neuroanatomy eBook chapter, so you can learn key aspects of this challenging topic in the context of general anatomy
+	•	Improves comprehension of complex cranial nerves with a visual map summarizing cranial nerve distribution and function
+	•	Offers schematic drawings for key structures and topics in every chapter, providing an additional, simplified approach to introduce each topic―ideal for quick initial understanding and as a guide for your own anatomy drawings
+	•	Enables you to quickly review the basic concepts from each chapter with Conceptual Overviews
+	•	An eBook version is included with purchase. The eBook allows you to access all of the text, figures and references, with the ability to search, customize your content, make notes and highlights, and have content read aloud
+
+Year: 2023
+
+Publisher: Elsevier
+
+Price: 203
+
+Dimension: 8.53 x 1.72 x 10.85 inches
+
+Edition: 5 th
+
+Print length : 1168 pages
+
+
+
+Harrison's Principles of Internal Medicine by J. Larry Jameson et al.
+
+
+Intro:The acclaimed, landmark guide to internal medicine―updated to reflect the latest guidelines and recommendations  
+
+The Voice of Clinical Reason
+
+A Doody's Core Title for 2026!
+
+For more than seven decades, Harrison’s Principles of Internal Medicine has provided healthcare professionals with the informational foundation needed to provide optimal patient care. The world’s leading authority on applied pathophysiology and clinical medicine, this trusted resource has covered countless advances and developments across the full span of medicine. 
+
+Fully updated, the new 22nd edition has been modified extensively in its structure and content and offers a standardized format for each disease chapter. The authors and editors have curated and synthesized the vast amount of information that comprises general internal medicine and each of the major specialties into a highly readable and informative resource. 
+
+Harrison’s is world-renowned as the most authoritative source for: 
+
+•  Descriptions of disease mechanisms and how the clinician can apply that knowledge for the best patient care and optimal diagnosis and treatment of specific diseases 
+•    Clear, concise schemas that facilitate the generation of differential diagnoses to reason efficiently through complex real world clinical cases
+•    The physiologic and epidemiologic basis of signs and symptoms, which are covered through a wealth of unsurpassed expert guidance and linked to the disease-specific chapters that follow
+•    Updated clinical trial results and recommended guidelines
+•    Excellent and extensive visual support, including radiographs, clinical photos, schematics, and high-quality drawings
+•    Coverage of both therapeutic approaches and specific treatment regimens
+•    Practical clinical decision trees and algorithms
+•    Organ- and system-specific sections, with clinically relevant pathophysiology and practical clinical advice on the approach to the patient, strategies towards building a differential diagnosis, outstanding clinical algorithms and diagnostic schema, a wealth of clinical images and diagrams, current clinical guidelines, as well as general and specific approaches to therapy
+
+This twenty-second edition features:
+
+•    Updated content that reflects new approved therapeutics and new practice-changing guidelines and evidence summaries
+•    More than 3,000, clinical, pathological, and radiographic photographs, diagnostic and therapeutic decision trees, and clear schematics and diagrams describing pathophysiologic processes
+•    Numerous atlases featuring curated collections of important visual aspects of diagnosis and management
+•    Brand new chapters, including The Value of the Physical Examination in Modern Medicine, Physician Well-Being, Exercise Intolerance, Primary and Secondary Hemophagocytic Lymphohistiocytosis, Symptom Control in Patients with Cancer, Principles of Immunization, COVID and Other Coronavirus Infections, Desensitization, Point-of-Care Ultrasound, Placebo and Nocebo Effects, Bedside Examination Tests in the Patient with Low Back Pain, and Antithrombotic Therapy in Adult Patients
+
+Year: 2025
+
+Publisher: McGraw Hill / Medical
+
+Edition : 22nd
+
+Dimension : 9.6 x 6.1 x 12.1 inches
+
+Price: 465
+
+Print length: 1552 pages
+
+
+
+Molecular Biology of the Cell by Bruce Alberts et al.
+
+Intro: The definitive text in cell biology now with the Digital Problems Book in Smartwork  
+For more than four decades, Molecular Biology of the Cell has distilled the vast amount of scientific knowledge to illuminate basic principles, enduring concepts, and cutting-edge research. The Seventh Edition has been extensively revised and updated with the latest research, and has been thoroughly vetted by experts and instructors. The classic companion text, The Problems Book, has been reimagined as the Digital Problems Book in Smartwork, an interactive digital assessment course with a wide selection of questions and automatic-grading functionality. The digital format with embedded animations and dynamic question types makes the Digital Problems Book in Smartwork easier to assign than ever before―for both in-person and online classes.
+
+Year: 2022
+
+Publisher: W. W. Norton & Company
+
+Edition : Seventh
+
+Dimension : 7.7 x 2.1 x 11.3 inches
+
+Price: 203
+
+Print length: 1552 pages
+
+
+The Selfish Gene by Richard Dawkins.
+
+
+Intro: Celebrating 50 years with a new anniversary edition, this critically acclaimed international bestseller has sold millions of copies and been translated into over 30 languages.
+
+Among the most influential and enduring science books of all time, The Selfish Gene is a classic in every sense of the word. Originally published in 1976, the book soon galvanized the biology community and fascinated a broad general readership. Professor Dawkins's gene's-eye view of evolution introduced a completely novel way of looking at survival. Fifty years later, The Selfish Gene still sparks fascination and debate among scientists and science-enthusiasts alike, inspiring new directions in research and fresh generations of young life scientists. First-time and returning readers will marvel at the timelessness and universality of this monumental work.
+
+In a new epilogue to the 50th anniversary edition, Professor Dawkins reflects on his signature publication and its enduring relevance and appeal. This edition also contains a new appendix, which sheds historical and personal light on the perpetual relevance of the 'selfish gene'.
+
+Year: 2026
+
+Publisher: Oxford University Press
+
+Edition : 5th
+
+Dimension : 5.12 x 1.58 x 7.68 inches
+
+Print length: 544 pages
+
+Price: 99
+
+
+Chemistry
+
+	0.	Organic Chemistry by Jonathan Clayden, Nick Greeves and Stuart Warren.
+
+Intro: A comprehensive update of the leading algorithms text, with new material on matchings in bipartite graphs, online algorithms, machine learning, and other topics.
+
+Some books on algorithms are rigorous but incomplete; others cover masses of material but lack rigor. Introduction to Algorithms uniquely combines rigor and comprehensiveness. It covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers, with self-contained chapters and algorithms in pseudocode. Since the publication of the first edition, Introduction to Algorithms has become the leading algorithms text in universities worldwide as well as the standard reference for professionals. This fourth edition has been updated throughout.
+
+New for the fourth edition
+	•	New chapters on matchings in bipartite graphs, online algorithms, and machine learning
+	•	New material on topics including solving recurrence equations, hash tables, potential functions, and suffix arrays
+	•	140 new exercises and 22 new problems
+	•	Reader feedback–informed improvements to old problems
+	•	Clearer, more personal, and gender-neutral writing style
+	•	Color added to improve visual presentation
+	•	Notes, bibliography, and index updated to reflect developments in the field
+	•	Website with new supplementary material
+
+Warning: Avoid counterfeit copies of Introduction to Algorithms by buying only from reputable retailers. Counterfeit and pirated copies are incomplete and contain errors.
+
+
+Price: 233
+
+Year: 2022
+
+Publisher: The MIT Press
+
+Print Length: 1312 pages
+
+Dimensions: 8.39 x 2.24 x 9.29 inches
+
+Edition: 4th
+
+	0.	Atkins' Physical Chemistry by Peter Atkins and Julio de Paula.
+
+Intro: Atkins' Physical Chemistry is widely acknowledged by both students and lecturers around the globe to be the textbook of choice for studying physical chemistry. Now in its eleventh edition, the text has been enhanced with additional learning features and math support and reorganized to make the text more flexible for instructors and more readable for students.
+
+Price: 103
+
+Year:  2018
+
+Publisher: Oxford University Press
+
+Print Length: 472 pages
+
+Dimensions: 10.8 x 0.8 x 8.5 inches
+
+Edition: 11th
+
+	0.	The Disappearing Spoon by Sam Kean.
+
+Intro: Explore the wacky, weird, and wonderful true stories behind one of the greatest scientific tools in history—the periodic table!—in this young readers edition of the New York Times bestseller The Disappearing Spoon.
+
+Why did Gandhi hate iodine?
+How did radium nearly ruin Marie Curie's reputation?
+Why did tellurium lead to the most bizarre gold rush in history?
+
+The periodic table is a crowning scientific achievement, but it's also a treasure trove of adventure, greed, betrayal, and obsession. A series of fascinating tales in The Disappearing Spoon follow the unassuming elements on the table as they play surprising roles in human history, finance, mythology, conflict, art, medicine—and of course the lives of the (frequently) mad scientists who discovered them!
+
+With line-drawings and side-bars throughout, students, teachers, and burgeoning science buffs will love learning the often unbelievable history behind the chemistry.
+
+Price: 55
+
+Year: 2019
+
+Publisher: Little, Brown Books for Young Readers
+
+Print Length: 240 pages
+
+Dimensions: 6 x 0.85 x 8.25 inches
+
+Edition: 2nd
+
+
+Computer Science
+	0.	Introduction to Algorithms by Thomas H. Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein.
+
+Intro: A comprehensive update of the leading algorithms text, with new material on matchings in bipartite graphs, online algorithms, machine learning, and other topics.
+
+Some books on algorithms are rigorous but incomplete; others cover masses of material but lack rigor. Introduction to Algorithms uniquely combines rigor and comprehensiveness. It covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers, with self-contained chapters and algorithms in pseudocode. Since the publication of the first edition, Introduction to Algorithms has become the leading algorithms text in universities worldwide as well as the standard reference for professionals. This fourth edition has been updated throughout.
+
+New for the fourth edition
+	•	New chapters on matchings in bipartite graphs, online algorithms, and machine learning
+	•	New material on topics including solving recurrence equations, hash tables, potential functions, and suffix arrays
+	•	140 new exercises and 22 new problems
+	•	Reader feedback–informed improvements to old problems
+	•	Clearer, more personal, and gender-neutral writing style
+	•	Color added to improve visual presentation
+	•	Notes, bibliography, and index updated to reflect developments in the field
+	•	Website with new supplementary material
+
+Price: 89
+
+Year: 2022
+
+Publisher: The MIT Press
+
+Print Length: 1312 pages
+
+Dimensions:  8.39 x 2.24 x 9.29 inches
+
+Edition: 4th
+
+	0.	Clean Code by Robert C. Martin.
+
+Intro: Bestselling author Robert C. Martin brings new life and updated code to his beloved Clean Code book
+With Clean Code, Second Edition, Robert C. Martin ("Uncle Bob") reinvigorates the classic guide to software craftsmanship with updated insights, broader scope, and enriched content. This new edition--a comprehensive rewrite of the original bestseller--is poised to transform the way developers approach coding, fostering a deeper commitment to the craft of writing clean, flexible, and maintainable code.
+The book is divided into four parts: basic coding practices, design principles and heuristics, high-level architecture, and the ethics of craftsmanship. It challenges readers to critically evaluate code quality and reassess their professional values, ultimately guiding them to produce better software. This edition includes expanded coverage of testing disciplines, design and architecture principles, and multiple programming languages.
+	•	Design and architecture principles integrated with coding practices
+	•	Coverage of more languages, including Java, JavaScript, Go, Python, Clojure, C#, and C
+	•	Case studies for practical exercises in code transformation
+	•	Techniques for writing good names, functions, objects, and classes
+	•	Strategies for formatting code for maximum readability
+	•	Comprehensive error handling and testing practices
+	•	Productive use of AI tools for coding
+	•	Soft skills and the ethics of programming
+	•	SOLID principles of software design
+	•	Management of dependencies for flexible and reusable code
+	•	Professional practices and trade-offs in object-oriented design
+Clean Code, Second Edition, underscores the importance of evolving software craftsmanship to meet contemporary challenges. Offering a deeper exploration of testing, design, and architecture, alongside universal coding principles applicable across various programming languages, this edition is set to be an indispensable resource for developers, engineers, and project managers. It not only aims to enhance technical skills but also to cultivate a professional ethos that values clean, flexible, and sustainable code.
+
+Price: 59
+
+Year: 2025
+
+Publisher: Addison-Wesley Professional
+
+Print Length: 672 pages
+
+Dimensions: 7 x 1.35 x 9.13 inches
+
+Edition: 2nd
+
+	0.	Python Crash Course by Eric Matthes.
+
+
+Intro: Python Crash Course is the world’s bestselling programming book, with over 1,500,000 copies sold to date!
+
+Python Crash Course is the world’s best-selling guide to the Python programming language. This fast-paced, thorough introduction will have you writing programs, solving problems, and developing functioning applications in no time.
+
+You’ll start by learning basic programming concepts, such as variables, lists, classes, and loops, and practice writing clean code with exercises for each topic. You’ll also learn how to make your programs interactive and test your code safely before adding it to a project. You’ll put your new knowledge into practice by creating a Space Invaders–inspired arcade game, building a set of data visualizations with Python’s handy libraries, and deploying a simple application online.
+
+As you work through the book, you’ll learn how to:
+	•	Use powerful Python libraries and tools, including pytest, Pygame, Matplotlib, Plotly, and Django
+	•	Make increasingly complex 2D games that respond to keypresses and mouse clicks
+	•	Generate interactive data visualizations using a variety of datasets
+	•	Build apps that allow users to create accounts and manage their own data, and deploy your apps online
+	•	Troubleshoot coding errors and solve common programming problems
+
+New to this edition: This third edition is completely revised to reflect the latest in Python code. New and updated coverage includes VS Code for text editing, the pathlib module for file handling, pytest for testing your code, as well as the latest features of Matplotlib, Plotly, and Django.
+
+If you’ve been thinking about digging into programming, Python Crash Course will provide you with the skills to write real programs fast. Why wait any longer? Start your engines and code!
+
+Price: 146
+
+Year: 2023
+
+Publisher: No Starch Press
+
+Print Length: 552 pages
+
+Dimensions: 7.01 x 1.1 x 9.25 inches
+
+Edition: 3rd
+
+	0.	Fluent Python by Luciano Ramalho.
+
+Intro:Don't waste time bending Python to fit patterns you've learned in other languages. Python's simplicity lets you become productive quickly, but often this means you aren't using everything the language has to offer. With the updated edition of this hands-on guide, you'll learn how to write effective, modern Python 3 code by leveraging its best ideas.
+Discover and apply idiomatic Python 3 features beyond your past experience. Author Luciano Ramalho guides you through Python's core language features and libraries and teaches you how to make your code shorter, faster, and more readable.
+Complete with major updates throughout, this new edition features five parts that work as five short books within the book:
+	•	Data structures: Sequences, dicts, sets, Unicode, and data classes
+	•	Functions as objects: First-class functions, related design patterns, and type hints in function declarations
+	•	Object-oriented idioms: Composition, inheritance, mixins, interfaces, operator overloading, protocols, and more static types
+	•	Control flow: Context managers, generators, coroutines, async/await, and thread/process pools
+	•	Metaprogramming: Properties, attribute descriptors, class decorators, and new class metaprogramming hooks that replace or simplify metaclasses
+
+Price: 94
+
+Year: 2022
+
+Publisher: O'Reilly Media
+
+Print Length: 1012 pages
+
+Dimensions: 7 x 2 x 9.25 inches
+
+Edition: 2nd
+
+
+

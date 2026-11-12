@@ -1,0 +1,60 @@
+{% extends "shop/base.html" %}
+
+{% block title %}Checkout{% endblock %}
+
+{% block content %}
+<h3 class="mb-4">Checkout</h3>
+
+<div class="row g-4">
+  <div class="col-lg-7">
+    <form method="post" action="{% url 'checkout' %}" class="card card-body shadow-sm">
+      {% csrf_token %}
+      <h5 class="mb-3">Your details</h5>
+
+      <div class="row">
+        <div class="col-md-6">{% include "shop/_field.html" with field=form.first_name %}</div>
+        <div class="col-md-6">{% include "shop/_field.html" with field=form.last_name %}</div>
+      </div>
+      {% include "shop/_field.html" with field=form.phone %}
+
+      <div class="mb-3">
+        <div class="form-label">Delivery</div>
+        {% for radio in form.delivery_zone %}
+          <div class="form-check">
+            {{ radio.tag }}
+            <label class="form-check-label" for="{{ radio.id_for_label }}">
+              {{ radio.choice_label }}
+              ({% if radio.data.value == "tbilisi" %}{{ fees.tbilisi|floatformat:2 }}{% else %}{{ fees.other|floatformat:2 }}{% endif %} ₾)
+            </label>
+          </div>
+        {% endfor %}
+        {% for error in form.delivery_zone.errors %}<div class="text-danger small mt-1">{{ error }}</div>{% endfor %}
+      </div>
+
+      {% include "shop/_field.html" with field=form.address %}
+      {% include "shop/_field.html" with field=form.note hint="optional" %}
+
+      <button type="submit" class="btn btn-success btn-lg">Place order</button>
+      <div class="small text-muted mt-2">Payment on delivery.</div>
+    </form>
+  </div>
+
+  <div class="col-lg-5">
+    <div class="card card-body shadow-sm">
+      <h5 class="mb-3">Your order</h5>
+      {% for item in items %}
+        <div class="d-flex justify-content-between small mb-2">
+          <span>{{ item.book.title }} × {{ item.quantity }}</span>
+          <span>{{ item.subtotal|floatformat:2 }} ₾</span>
+        </div>
+      {% endfor %}
+      <hr>
+      <div class="d-flex justify-content-between"><span>Books</span><span>{{ items_total|floatformat:2 }} ₾</span></div>
+      <div class="small text-muted mt-2">
+        Delivery fee is added to the total: {{ fees.tbilisi|floatformat:2 }} ₾ in Tbilisi, {{ fees.other|floatformat:2 }} ₾ outside Tbilisi.
+      </div>
+      <a href="{% url 'cart' %}" class="btn btn-outline-secondary btn-sm mt-3">Back to cart</a>
+    </div>
+  </div>
+</div>
+{% endblock %}

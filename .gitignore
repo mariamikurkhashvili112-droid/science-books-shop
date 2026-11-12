@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE and system files
+.idea/
+.DS_Store
+
+# source images for covers (the attached covers are in media/)
+covers_src/
